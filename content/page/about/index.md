@@ -60,23 +60,23 @@ During my free time, I play CTFs with [Goburin'](https://ctftime.org/team/111613
 
 ### Domestic
 2022 
-- 1st award, AIS3 EOF CTF <span style='float: right;'>Taipei, Taiwan</span>
+- 1st, AIS3 EOF CTF <span style='float: right;'>Taipei, Taiwan</span>
   - meow?
-- 1st award, AIS3 Pre-exam CTF <span style='float: right;'>Online</span>
+- 1st, AIS3 Pre-exam CTF <span style='float: right;'>Online</span>
   - Solo
 
 2020
 - 3rd award, AIS3 EOF CTF <span style='float: right;'>Taipei, Taiwan</span>
   - Cybur57
-- 2nd award, AIS3 Pre-exam CTF  <span style='float: right;'>Online</span>
+- 2nd, AIS3 Pre-exam CTF  <span style='float: right;'>Online</span>
   - Solo
-- 3rd award, AEGIS CTF <span style='float: right;'>Taipei, Taiwan</span>
+- 3rd, AEGIS CTF <span style='float: right;'>Taipei, Taiwan</span>
   - Goburin'
-- 2nd award, HITCON x Balsn CTF <span style='float: right;'>Taipei, Taiwan</span>
+- 2nd, HITCON x Balsn CTF <span style='float: right;'>Taipei, Taiwan</span>
   - Goburin'
 
 2019 
-- 3rd award, MyFirstCTF <span style='float: right;'>Taipei, Taiwan</span>
+- 3rd, MyFirstCTF <span style='float: right;'>Taipei, Taiwan</span>
   - Solo
 
 ---
