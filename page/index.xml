@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on K1a's Blog</title><link>https://example.com/page/</link><description>Recent content in Pages on K1a's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://example.com/about/</link><pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate><guid>https://example.com/about/</guid><description>&lt;hr>
+&lt;p>I&amp;rsquo;m a security enthusiast interested in browser security and binary exploitation.&lt;/p>
+&lt;p>Currently studying for a master&amp;rsquo;s degree in Secure Systems Laboratory&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> of National Taiwan University.&lt;/p>
+&lt;p>During my free time, I play CTFs with &lt;a class="link" href="https://ctftime.org/team/111613" target="_blank" rel="noopener"
+>Goburin&amp;rsquo;&lt;/a> or &lt;a class="link" href="https://ctftime.org/team/150366" target="_blank" rel="noopener"
+>⚔️TSJ⚔️&lt;/a>.&lt;/p>
+&lt;hr>
+&lt;h2 id="education">Education&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>M.S. &lt;span style='float: right;'>2021/09 ~ Present&lt;/span>&lt;/p>
+&lt;ul>
+&lt;li>National Taiwan University&lt;/li>
+&lt;li>Graduate Institute of Networking and Multimedia&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>B.S. &lt;span style='float: right;'>2017/09 ~ 2021/01&lt;/span>&lt;/p>
+&lt;ul>
+&lt;li>National Chung Cheng University&lt;/li>
+&lt;li>Department of Computer Science and Information Engineering&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="work-experience">Work Experience&lt;/h2>
+&lt;ul>
+&lt;li>Security Researcher Intership &lt;span style='float: right;'>2022/04 ~ 2022/07&lt;/span>
+&lt;ul>
+&lt;li>DEVCORE&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="ctfs">CTFs&lt;/h2>
+&lt;h3 id="internaltional">Internaltional&lt;/h3>
+&lt;p>2022&lt;/p>
+&lt;ul>
+&lt;li>9th, DEF CON CTF 2022 &lt;span style='float: right;'>Las Vegas, United States&lt;/span>
+&lt;ul>
+&lt;li>Balsn.217@TSJ.tw&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>1st, UIUCTF 2022 &lt;span style='float: right;'>Online&lt;/span>
+&lt;ul>
+&lt;li>TTT&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>2nd, DEF CON CTF Qualifier 2022 &lt;span style='float: right;'>Online&lt;/span>
+&lt;ul>
+&lt;li>Balsn.217@TSJ.tw&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>2021&lt;/p>
+&lt;ul>
+&lt;li>3th, Balsn CTF 2021 &lt;span style='float: right;'>Online&lt;/span>
+&lt;ul>
+&lt;li>Goburin'&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>6th, ALLES! CTF 2021 &lt;span style='float: right;'>Online&lt;/span>
+&lt;ul>
+&lt;li>Goburin'&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="domestic">Domestic&lt;/h3>
+&lt;p>2022&lt;/p>
+&lt;ul>
+&lt;li>1st award, AIS3 EOF CTF &lt;span style='float: right;'>Taipei, Taiwan&lt;/span>
+&lt;ul>
+&lt;li>meow?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>1st award, AIS3 Pre-exam CTF &lt;span style='float: right;'>Online&lt;/span>
+&lt;ul>
+&lt;li>Solo&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>2020&lt;/p>
+&lt;ul>
+&lt;li>3rd award, AIS3 EOF CTF &lt;span style='float: right;'>Taipei, Taiwan&lt;/span>
+&lt;ul>
+&lt;li>Cybur57&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>2nd award, AIS3 Pre-exam CTF &lt;span style='float: right;'>Online&lt;/span>
+&lt;ul>
+&lt;li>Solo&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>3rd award, AEGIS CTF &lt;span style='float: right;'>Taipei, Taiwan&lt;/span>
+&lt;ul>
+&lt;li>Goburin'&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>2nd award, HITCON x Balsn CTF &lt;span style='float: right;'>Taipei, Taiwan&lt;/span>
+&lt;ul>
+&lt;li>Goburin'&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>2019&lt;/p>
+&lt;ul>
+&lt;li>3rd award, MyFirstCTF &lt;span style='float: right;'>Taipei, Taiwan&lt;/span>
+&lt;ul>
+&lt;li>Solo&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="vulnerability-reports">Vulnerability Reports&lt;/h2>
+&lt;ul>
+&lt;li>CVE-2022-2624: Heap buffer overflow in PDF ($2000) - Chromium&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="staff--challenge-author">Staff / Challenge Author&lt;/h2>
+&lt;p>2021&lt;/p>
+&lt;ul>
+&lt;li>AIS3 EOF Final CTF&lt;/li>
+&lt;li>AIS3 Pre-exam CTF&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="tas">TAs&lt;/h2>
+&lt;ul>
+&lt;li>National Taiwan University
+&lt;ul>
+&lt;li>CSIE7016 &lt;span style='float: right;'>2021 Fall&lt;/span>
+&lt;ul>
+&lt;li>Computer Security&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CSIE5374 &lt;span style='float: right;'>2022 Spring&lt;/span>
+&lt;ul>
+&lt;li>Advanced Topics in Software Systems Design and Implementation&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="lectures">Lectures&lt;/h2>
+&lt;p>2021&lt;/p>
+&lt;ul>
+&lt;li>SCIST (Students&amp;rsquo; Community of Information in Southern Taiwan)
+&lt;ul>
+&lt;li>Pwn&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CSIE7016 Computer Security Week 15
+&lt;ul>
+&lt;li>Pwn&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>Former Security and Software Systems Laboratory&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Archives</title><link>https://example.com/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://example.com/archives/</guid><description/></item><item><title>Search</title><link>https://example.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/search/</guid><description/></item></channel></rss>
