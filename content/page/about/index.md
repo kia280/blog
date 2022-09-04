@@ -43,7 +43,7 @@ During my free time, I play CTFs with [Goburin'](https://ctftime.org/team/111613
 
 --- 
 ## CTFs
-### Internaltional
+### International
 2022
 - 9th, DEF CON CTF 2022  <span style='float: right;'>Las Vegas, United States</span>
   - Balsn.217@TSJ&#46;tw
